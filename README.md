@@ -6,7 +6,7 @@
 </a>
 
 ## Hi 👋 I am Daniel! 
-I am a software engineer at [Kubeshop](https://kubeshop.io/). 
+I am a software engineer at [Kubeshop](https://kubeshop.io/) and doctorate student at [University of São Paulo](https://www.ime.usp.br/en/home/). 
 
 - 🌐 Visit my [porfolio website](https://www.dbdias.com/) for complete background and contact.
 - 👋 My personal [blog](https://www.dbdias.com/year-archive/)
