@@ -11,7 +11,6 @@ I am a software engineer at [Kubeshop](https://kubeshop.io/), maintainer of [Tra
 I am a generalist developer that is walking a technology-focused path working with Dev Tools and AI. My main languages are Golang, Python, Ruby and Javascript.
 
 - 🌐 Visit my [porfolio website](https://www.dbdias.com/) for complete background and contact.
-- 👋 My personal [blog](https://www.dbdias.com/year-archive/)
 
 ---
 <p align = "center">
