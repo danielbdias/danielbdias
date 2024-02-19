@@ -6,7 +6,7 @@
 </a>
 
 ## Hi 👋 I am Daniel! 
-I am a software engineer at [Kubeshop](https://kubeshop.io/), maintainer of [Tracetest.io](https://tracetest.io/) and doctorate student at [University of São Paulo](https://www.ime.usp.br/en/home/). 
+I am a software engineer at [Kubeshop](https://kubeshop.io/), maintainer of [Tracetest.io](https://tracetest.io/) and doctorate candidate at [University of São Paulo](https://www.ime.usp.br/en/home/). 
 
 I am a generalist developer that is walking a technology-focused path working with Dev Tools and AI. My main languages are Golang, Python, Ruby and Javascript.
 
