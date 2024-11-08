@@ -28,7 +28,7 @@ I am a software engineer at [Kubeshop](https://kubeshop.io/), a maintainer of [T
 
 To see technical demos of my main stack, see the following links:
 
-- [Python + LLMs](https://github.com/danielbdias/code-examples-python-rag-app): Simple app written with Python, LangChain and StreamLit that uses a sample OpenTelemetry trace from Tracetest and answer questions about it
+- [Python + LLMs](https://github.com/danielbdias/python-sample-rag-app): Simple app written with Python, LangChain and StreamLit that uses a sample OpenTelemetry trace from Tracetest and answer questions about it
 - [Go + Open Telemetry](https://github.com/kubeshop/tracetest/tree/main/examples/quick-start-grpc-stream-propagation): code based in a [article](https://dev.to/kubeshop/opentelemetry-trace-context-propagation-for-grpc-streams-4511) that show a producer and consumer based in gRPC streams written in Go
 - [Node.js + DDD](https://github.com/danielbdias/domain-driven-design-in-nodejs): example Express.js written in Node.js showing an interpretation of applying some Domain Driven Design principles in a code.
 - [Ruby + DDD](https://github.com/danielbdias/domain-driven-design-in-ruby): example of Ruby on Rails app showing an interpretation of applying some Domain Driven Design principles in a code.
