@@ -10,7 +10,7 @@
 
 ## Hi! I am Daniel! 👋
 
-I am a software engineer at [Kubeshop](https://kubeshop.io/), a maintainer of [Tracetest](https://github.com/kubeshop/tracetest), and a doctorate candidate at [University of São Paulo](https://www.ime.usp.br/en/home/). 
+I am a software engineer at [dbt Labs](https://www.getdbt.com/), and a doctorate candidate at [University of São Paulo](https://www.ime.usp.br/en/home/). 
 
 - 🙋‍♂️ I am a technology-focused generalist developer who works with Dev Tools and AI, located in Foz do Iguaçú, Paraná, Brazil. (Closer to the [Iguazu Falls](https://en.wikipedia.org/wiki/Iguazu_Falls))
 - ⚙ My main languages are **Go**, **Python**, **Ruby**, and **Javascript**.
