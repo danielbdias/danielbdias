@@ -1,9 +1,6 @@
 <a href="https://dev.to/danielbdias" target="_blank" rel="nofollow">
   <img align="right" alt="Daniel's Dev.to" width="22px" src="https://cdn.simpleicons.org/dev.to/black/white" />
 </a>
-<a href="https://www.threads.net/@danielbpdias" target="_blank" rel="nofollow">
-  <img align="right" alt="Daniel's Threads" width="22px" src="https://cdn.simpleicons.org/threads/black/white" />
-</a> 
 <a href="https://www.linkedin.com/in/danielbdias" target="_blank" rel="nofollow">
   <img align="right" alt="Daniel's Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />
 </a>
