@@ -17,7 +17,6 @@ I am a software engineer at [dbt Labs](https://www.getdbt.com/), and a doctorate
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=danielbdias&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=danielbdias&theme=dark&hide_border=true" width = 400>
 </p>
 
 
