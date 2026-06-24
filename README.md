@@ -30,4 +30,9 @@ To see technical demos of my main stack, see the following links:
 - [Ruby + DDD](https://github.com/danielbdias/domain-driven-design-in-ruby): example of Ruby on Rails app showing an interpretation of applying some Domain Driven Design principles in a code.
 - [SRE + Observability stack](https://github.com/kubeshop/tracetest/tree/main/examples/observability-stack): example based in this [article](https://dev.to/kubeshop/building-an-observability-stack-with-docker-3de8) on how to build a local observability stack to test observability for you app.
 
+## Blog Posts
 
+- Post on OpenTelemetry blog: [Trace-based Testing the OpenTelemetry Demo](https://opentelemetry.io/blog/2023/testing-otel-demo/)
+- Post on OpenTelemetry blog: [Creating a Kubernetes Cluster with Runtime Observability](https://opentelemetry.io/blog/2023/k8s-runtime-observability/)
+- Post on Tracetest.io blog: [Testing LLM Apps with Trace-Based Testing](https://tracetest.io/blog/testing-llm-apps-with-trace-based-testing)
+- Post on Tracetest.io blog: [Integrating Datadog Instrumented Apps in your OpenTelemetry Stack](https://tracetest.io/blog/integrating-datadog-instrumented-apps-in-your-opentelemetry-stack)
